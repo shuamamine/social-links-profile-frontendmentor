@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 
-  ### What I learned
+ ### What I learned
   - Hover in CSS
   - learnt more on justify-content and flex-direction
 
